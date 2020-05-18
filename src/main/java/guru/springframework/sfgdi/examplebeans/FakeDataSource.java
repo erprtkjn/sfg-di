@@ -1,4 +1,4 @@
-package guru.springframework.sfgdi.model;
+package guru.springframework.sfgdi.examplebeans;
 
 public class FakeDataSource {
 
